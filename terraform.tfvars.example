@@ -1,0 +1,6 @@
+civo_token = "REPLACE_THIS"
+instance_type = "g3.small"
+disk_image_name = "ubuntu-jammy"
+disk_image_version = "22.04"
+region = "DG-EXM"
+instance_count = 1
